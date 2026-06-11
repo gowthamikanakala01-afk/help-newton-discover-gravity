@@ -1,0 +1,6 @@
+{
+  "name": "Help Newton Discover Gravity",
+  "description": "A dark-art cinematic browser game where you guide falling apples onto Isaac Newton's head and avert historical catastrophes from other falling fruits.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
